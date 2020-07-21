@@ -1,0 +1,5 @@
+This repository contains R implementation of computational experiments described in "Application of structured Gaussian processes on COVID-19 to predict case counts and to understand risk factors", which is submitted to Bioinformatics.
+
+forward_feature_selection_with_sgp.R file shows how to predict cases and select spatial features on COVID-19 data.
+sgp_train.R => training procedure for regression in R
+sgp_test.R => test procedure for regression in R
